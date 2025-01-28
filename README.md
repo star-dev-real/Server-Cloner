@@ -1,7 +1,4 @@
-This is a free discord server cloner! REMEMBER THAT THIS IS AGAINTS DISCORD'S TOS! I am not responsible for any bans, but there is a small chance of getting banned.
-
-# REPLIT -> https://replit.com/@6gr4mp6zbx/Ralph-Cloner?s=app
-## About
+This is a free discord server cloner! REMEMBER THAT THIS IS AGAINTS DISCORD'S TOS! I am not responsible for any bans!
 
 *A Discord Server Cloner Which Can Clone Any Discord Server In Just Few Minutes.*
 - Clone Channels
