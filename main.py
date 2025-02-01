@@ -30,7 +30,7 @@ print(f"""{Fore.RED}
                                                                                                
 
 {Style.RESET_ALL}
-                                                            {Fore.MAGENTA}Developed by: the_only_rb.{Style.RESET_ALL}
+                                                            {Fore.MAGENTA}Developed by: star_dev..{Style.RESET_ALL}
         """)
 token = input(f'Please enter your token:\n >')
 guild_s = input('Please enter guild id you want to copy:\n >')
